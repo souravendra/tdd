@@ -1,2 +1,4 @@
-# tdd
-test driven development in NodeJs
+
+##Test Driven Development in NodeJs
+- mocha & chais
+- sinonjs
